@@ -32,3 +32,5 @@ jobs:
           tags: |
             charlino4u/paymentservice:latest
             charlino4u/paymentservice:${{ github.sha }}
+
+            
